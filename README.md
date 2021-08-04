@@ -1,5 +1,5 @@
 ### Hi there, I'm Leo, nice to meet you 👋
-## I'm a Father, Developer, and Dog lover!! 🐶
+## I'm a Father, Developer and Dog lover!! 🐶
 - 🙉 Studying LGPD(Based on European GDPR)
 - 🔥 Backend Developer doing stuff work
 - 🤖 I’m currently learning advanced .NET features

@@ -1,5 +1,5 @@
 ### Hi there, I'm Leo, nice to meet you 👋
-## I'm a Father, Developer and Dog lover!! 🐶
+## I'm a Father, Developer, and Dog lover!! 🐶
 - 🙉 Studying LGPD(Based on European GDPR)
 - 🔥 Backend Developer doing stuff work
 - 🤖 I’m currently learning advanced .NET features
@@ -61,6 +61,14 @@ style="margin-right: 15px"/>
 style="margin-right: 15px"/>
 <br />
 <br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardohrp)](https://github.com/Leonardohrp/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardohrp&show_icons=true&theme=dark)
+
+
 
 [github]: https://github.com/Leonardohrp
 [instagram]: https://www.instagram.com/leonardohrp

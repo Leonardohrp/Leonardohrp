@@ -4,7 +4,6 @@
 - 🔥 Backend Developer doing stuff work
 - 🤖 I’m currently learning advanced .NET features
 - 👯 Microservices 
-- 🥅 2021 Goals: Start working in an international project
 <br />
 
 ## Connect with me:

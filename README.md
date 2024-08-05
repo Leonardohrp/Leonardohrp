@@ -16,7 +16,7 @@
 ## Languages and Tools:
 <br />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 15px"/>
-<img align="left" alt="Visual Studio 2019+" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"
+<img align="left" alt="Visual Studio 2022" width="40px" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000"
 style="margin-right: 15px"/>
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
 style="margin-right: 15px"/>
@@ -69,4 +69,4 @@ style="margin-right: 15px"/>
 
 [github]: https://github.com/Leonardohrp
 [instagram]: https://www.instagram.com/leonardohrp22
-[linkedin]: https://linkedin.com/in/leonardo-henrique-rodrigues-pinheiro-555bb6162
+[linkedin]: https://www.linkedin.com/in/leonardo-hrp/
